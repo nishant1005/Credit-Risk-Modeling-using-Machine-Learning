@@ -1,8 +1,11 @@
 # Credit-Risk-Modeling-using-Machine-Learning
 Work In progress
+
 Recently uploaded-Feed Forward Deep neural network(version 1) to classify credit defaults:Accuracy:78%
+
 Currently working on->
-1.Improving accuracy of DL
+
+1.Improving accuracy of feed forward neural network
 
 2.Data analysis and prepocessing 
 
