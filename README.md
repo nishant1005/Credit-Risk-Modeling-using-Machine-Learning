@@ -5,9 +5,9 @@ Recently uploaded-Feed Forward Deep neural network(version 1) to classify credit
 
 Currently working on->
 
-1.Improving accuracy of feed forward neural network
+1.Improving accuracy of feed forward neural network by changing optimizer,topology,batch normalization and momenmtum rate.
 
-2.Data analysis and prepocessing 
+2.Data analysis,visulization  and prepocessing 
 
 3.Training benchamark superivised learning model(Logistic Regression)
 
