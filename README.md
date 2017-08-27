@@ -1,9 +1,10 @@
 # Credit-Risk-Modeling-using-Machine-Learning
 Captstone Project by Nishant Sharma
-This is a comprehensive comparion of some classification models used for credit risk prediction 
+
+This is a comprehensive comparison of risk prediction models. 
 
 
-Steps followed->
+Steps followed in the project->
 
 1.Data analysis,visulization  and prepocessing 
 
