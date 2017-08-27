@@ -1,16 +1,20 @@
 # Credit-Risk-Modeling-using-Machine-Learning
-Work In progress
+Captstone Project by Nishant Sharma
+This is a comprehensive comparion of some classification models used for credit risk prediction 
 
-Recently uploaded-Feed Forward Deep neural network(version 1) to classify credit defaults:Accuracy:78%
 
-Currently working on->
+Steps followed->
 
 1.Data analysis,visulization  and prepocessing 
 
-3.Training benchamark superivised learning model(Logistic Regression)
+2.Training benchamark superivised learning model(Logistic Regression)
 
-4.Training Ensemble methods(Random forest,Adaboost,Gradient boosted trees,weighted classifers)
+4.A feed Forward Deep Nerual Netwrok was built and trained.
 
-5.Parameter tuning of Ensemble methods
+3.Training Ensemble methods(Random forest,Adaboost,Gradient boosted trees,weighted classifers)
 
-6.Precisin,Racall and F1 score comparison chart
+4.Training Weighted Voting classifer of the above ensemble methods and tuning parameters for each algorithim usign GridSearch 10 fold cross validation.
+
+5.Finally,Gradient Boosting with tuned parameters was select,accuracy achived-82.3%.
+
+Please Refer to project report for refrences and explainations.
