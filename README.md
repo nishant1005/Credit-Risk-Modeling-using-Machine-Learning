@@ -15,7 +15,7 @@ Here is what you need to see with respect to the steps followed->
 
 
 Results-
-Finally,Gradient Boosting with tuned parameters was selected,accuracy achived-82.3%.
+Finally,Gradient Boosting with tuned parameters was selected with optimal training/testing scores accross 10 folds of data.
 
 
 
