@@ -45,4 +45,4 @@ http://seaborn.pydata.org/generated/seaborn.boxplot.html#seaborn.boxplot
 
 https://jmetzen.github.io/2015-04-14/calibration.html
 
-https://pythonspot.com/en/matplotlib-bar-chart/
+
