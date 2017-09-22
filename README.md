@@ -1,4 +1,4 @@
-# Credit-Risk-Modeling-using-Machine-Learning
+# Credit-Risk-Modeling-using-Machine/Deep-Learning
 Captstone Project by Nishant Sharma
 
 This is a comprehensive comparison of risk prediction models. 
